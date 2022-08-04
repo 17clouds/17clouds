@@ -12,5 +12,6 @@
 <a href="https://t.me/fackingrxer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'/> </a>
 </p>   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=17clouds&show_icons=true)  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=17clouds&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=17clouds&show_icons=true)  
