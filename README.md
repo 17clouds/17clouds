@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Dmitrii
+#### I am student / junior Frontend Develper
+ I'm passionate and involved in Web Dev. I like Java Script and I'm exploring the newest tech.
 
-<!--
-**17clouds/17clouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React 
+- ⚡ Fun fact: ya neveroyatno kruto risuyu 24 / 5 000 Результаты перевода I'm incredibly good at drawing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/17clouds)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/17clouds//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/fackingrxer)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=17clouds)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=17clouds&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=17clouds)  
+
