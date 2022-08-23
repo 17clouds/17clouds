@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Dmitrii</h1>
-<h3 align="center">I'm passionate and involved in Web Dev. I like Java Script and I'm exploring the newest tech.🇺</h3>
+<h3 align="center">I'm passionate and involved in Web Dev. I like Java Script and I'm exploring the newest tech.</h3>
 <h3 align="center">Skills: REACT / JS / HTML / CSS</h3>
 <p align="center">
    🌱 I’m currently learning React 
